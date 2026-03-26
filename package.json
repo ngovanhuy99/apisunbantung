@@ -1,0 +1,17 @@
+{
+  "name": "taixiu-ai-bot",
+  "version": "1.0.0",
+  "description": "Tai Xiu AI Analyzer Server",
+  "main": "1.js",
+  "scripts": {
+    "start": "node 1.js"
+  },
+  "keywords": ["taixiu", "ai", "bot", "express", "websocket"],
+  "author": "chienvan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.17.0",
+    "cors": "^2.8.5"
+  }
+}
